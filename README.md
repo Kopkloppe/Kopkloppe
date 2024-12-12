@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kopkloppe
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning transpotation in jilin university
+- 🌱 I’m currently learning IEOR in HUST
 - 📫 You can reach me through email: jkbernabeu@163.com
 
 <!---
